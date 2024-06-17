@@ -3,7 +3,8 @@
 ## TODO
 
 - [x] Make it deplay (Vercel)
-- [ ] Scaffold basic ui with mock data
+- [x] Scaffold basic ui with mock data
+- [x] Tidy up build process
 - [ ] Actually set up a database (Vervel Postgres)
 - [ ] Attach database to UI
 - [ ] Add authentication (w/ clerk)
@@ -13,17 +14,6 @@
 - [ ] Delete button (w/ Server Actions)
 - [ ] Analytics (posthog)
 - [ ] Ratelimiting (upstach)
-
-
-
-
-
-
-
-
-
-
-
 
 This is a [T3 Stack](https://create.t3.gg/) project bootstrapped with `create-t3-app`.
 
