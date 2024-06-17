@@ -2,7 +2,7 @@
 
 ## TODO
 
-- [ ] Make it deplay (Vercel)
+- [x] Make it deplay (Vercel)
 - [ ] Scaffold basic ui with mock data
 - [ ] Actually set up a database (Vervel Postgres)
 - [ ] Attach database to UI
